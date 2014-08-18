@@ -1,5 +1,8 @@
-shinken-mod-booster-nrpe (1.4.1-1) UNRELEASED; urgency=medium
+shinken-mod-booster-nrpe (1.4-1) unstable; urgency=medium
 
   * New upstream version 1.4.1
+  * Add replaces shinken-module-poller-nrpe
+  * Add custom config files
+  * Closes: #745458
 
- -- Thibault Cohen <tcohen@tcohen-pc.mtl.sfl>  Mon, 18 Aug 2014 16:19:56 -0400
+ -- Thibault Cohen <thibault.cohen@savoirfairelinux.com>  Sun, 27 Apr 2014 03:26:18 -0400
