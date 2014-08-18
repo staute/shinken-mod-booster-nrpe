@@ -1,4 +1,4 @@
-shinken-mod-booster-nrpe (1.4-1) unstable; urgency=medium
+shinken-mod-booster-nrpe (1.4.1-1) unstable; urgency=medium
 
   * New upstream version 1.4.1
   * Add replaces shinken-module-poller-nrpe
