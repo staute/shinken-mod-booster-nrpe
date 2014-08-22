@@ -1,3 +1,3 @@
-module/* /usr/share/pyshared/shinken/modules/booster-nrpe
-doc/* /usr/share/doc/shinken-mod-booster-nrpe
-debian/etc/modules/booster_nrpe.cfg /etc/shinken/modules/booster_nrpe.cfg
+module/* usr/share/pyshared/shinken/modules/booster-nrpe
+doc/* usr/share/doc/shinken-mod-booster-nrpe
+etc/modules/* etc/shinken/modules
