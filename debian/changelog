@@ -1,3 +1,10 @@
+shinken-mod-booster-nrpe (1.7-1+PIC001) unstable; urgency=medium
+
+  * New upstream version
+    (from https://github.com/shinken-monitoring/mod-booster-nrpe.git [upstream_source/master])
+
+ -- Stefan Taute (PLANET IC GmbH) <taute@planet-ic.de>  Tue, 27 Oct 2015 16:47:40 +0100
+
 shinken-mod-booster-nrpe (1.4.2-1) unstable; urgency=medium
 
   [Thibault Cohen]

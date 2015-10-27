@@ -21,7 +21,7 @@ case "$1" in
     configure)
         # Move old config files
         if dpkg-maintscript-helper supports mv_conffile 2>/dev/null; then
-            dpkg-maintscript-helper mv_conffile /etc/shinken/shinken-specific/poller-nrpe.cfg /etc/shinken/modules/booster-nrpe.cfg 1.4.2-1 shinken-module-poller-nrpe -- "$@"
+            dpkg-maintscript-helper mv_conffile /etc/shinken/shinken-specific/poller-nrpe.cfg /etc/shinken/modules/booster-nrpe.cfg 1.7-1+PIC001 shinken-module-poller-nrpe -- "$@"
         fi
     ;;
 

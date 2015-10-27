@@ -14,6 +14,7 @@ License: GNU-AGPL
 Files: debian/*
 Copyright: 2014 Thibault Cohen <titilambert@gmail.com>
            2014 Mathieu Parent <sathieu@debian.org>
+           2015 Stefan Taute (PLANET IC GmbH) <taute@planet-ic.de>
 License: GPL-2
 
 
