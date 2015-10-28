@@ -1,1 +1,17 @@
-.git/config
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "origin"]
+	url = https://github.com/staute/shinken-mod-booster-nrpe.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "master"]
+	remote = origin
+	merge = refs/heads/master
+[remote "upstream"]
+	url = https://anonscm.debian.org/git/pkg-shinken/shinken-mod-booster-nrpe.git
+	fetch = +refs/heads/*:refs/remotes/upstream/*
+[remote "upstream_source"]
+	url = https://github.com/shinken-monitoring/mod-booster-nrpe.git
+	fetch = +refs/heads/*:refs/remotes/upstream_source/*
