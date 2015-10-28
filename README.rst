@@ -1,7 +1,3 @@
-.. image:: https://api.travis-ci.org/shinken-monitoring/mod-booster-nrpe.svg?branch=master
-  :target: https://travis-ci.org/shinken-monitoring/mod-booster-nrpe
-.. _packages/setup-nrpe-booster-module:
-
 ============
 NRPE Module 
 ============
