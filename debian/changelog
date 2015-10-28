@@ -1,9 +1,11 @@
 shinken-mod-booster-nrpe (1.7-1+PIC001) unstable; urgency=medium
 
   * New upstream version
-    (from https://github.com/shinken-monitoring/mod-booster-nrpe.git [upstream_source/master])
+    - https://github.com/shinken-monitoring/mod-booster-nrpe.git
+    - Branch: master
+    - Commit: d9c4f670a9294203e65af9a78c124d94fbb7f2fb
 
- -- Stefan Taute (PLANET IC GmbH) <taute@planet-ic.de>  Tue, 27 Oct 2015 16:47:40 +0100
+ -- Stefan Taute (PLANET IC GmbH) <taute@planet-ic.de>  Wed, 28 Oct 2015 09:27:44 +0100
 
 shinken-mod-booster-nrpe (1.4.2-1) unstable; urgency=medium
 
